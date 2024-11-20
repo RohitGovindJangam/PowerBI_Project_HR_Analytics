@@ -72,3 +72,6 @@ For queries or feedback, feel free to reach out:
 Name: Rohit Jangam
 LinkedIn: [Rohit Jangam]((https://www.linkedin.com/in/rohitjangam/))
 Email: jangamrohit88@gmail.com
+
+🤝 Contributions
+Contributions are welcome! If you find areas for improvement or have additional ideas, feel free to fork the repository, make your changes, and submit a pull request.
